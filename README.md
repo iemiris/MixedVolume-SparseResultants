@@ -11,3 +11,6 @@ incres.tgz is a tarfile of sources, executables, and library files for a standal
 
 mixvol2020.tgz is a tarfile of the sources and executables for computing Mixed volume and Mixed cells via randomized mixed subidivions (by linear or affine liftings) on Linux. The Lift-Prune algorithm is due to Canny and Emiris (JSC article) and has been the most practical approach. The library also computes Stable Volume (see paper by Emiris and Verschelde).
 
+maples.tgz contains several Maple routines for the above problems as well as files for converting between Maple format and input format to the C programs.
+
+for more info see: http://cgi.di.uoa.gr/~emiris/soft_alg.html and http://cgi.di.uoa.gr/~emiris/soft_geo.html
